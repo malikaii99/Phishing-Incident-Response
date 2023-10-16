@@ -2,7 +2,7 @@
 <h1>Description</h1>
 
 In this activity, I will respond to a phishing incident that involves a malicious file hash. This is the same SHA256 file hash that I investigated and verified as malicious in a 
-[Suspicious File Hash Investigation](https://github.com/malikaii99/Phishing-Incident-Response/blob/4e0ec96574c799ebc5b5882ef4aa5d1bf688563f/Phishing%20incident%20response%20playbook.docx). I'll follow playbook instructions to investigate and resolve the incident's alert ticket.
+[Suspicious File Hash Investigation](https://github.com/malikaii99/Suspicious-File-Hash-Investigation). I'll follow playbook instructions to investigate and resolve the incident's alert ticket.
 
 A playbook can help security teams minimize the impact of an incident and reduce the incident response time. As a security analyst, playbooks can help guide you to effectively support an organization's incident response efforts.
 
