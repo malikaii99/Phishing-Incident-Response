@@ -1,23 +1,24 @@
 # Phishing Incident Response; Using a Playbook
 <h1>Description</h1>
 
-A security audit will be done on Botium Toys to align their operational practices with industry standards and best practices. The audit will assess the company's adherence to cybersecurity norms, identify potential gaps, and enhance the overall security posture of the organization.
+In this activity, I will respond to a phishing incident that involves a malicious file hash. This is the same SHA256 file hash that I investigated and verified as malicious in a 
+[Suspicious File Hash Investigation](https://github.com/malikaii99/Phishing-Incident-Response/blob/4e0ec96574c799ebc5b5882ef4aa5d1bf688563f/Phishing%20incident%20response%20playbook.docx). I'll follow playbook instructions to investigate and resolve the incident's alert ticket.
+
+A playbook can help security teams minimize the impact of an incident and reduce the incident response time. As a security analyst, playbooks can help guide you to effectively support an organization's incident response efforts.
 
 <h2>Scenario</h2>
 
-This scenario is based on a fictional company:
+Review the scenario. Then complete the step-by-step instructions
 
-Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location. However, its online presence has grown, attracting customers in the U.S. and abroad. Their information technology (IT) department is under increasing pressure to support their online market worldwide. 
+You are a level-one security operations center (SOC) analyst at a financial services company. Previously, you received a phishing alert about a suspicious file being downloaded on an employee's computer. After investigating the email attachment file's hash, the attachment has already been verified malicious. Now that you have this information, you must follow your organization's process to complete your investigation and resolve the alert.
 
-The manager of the IT department has decided that an internal IT audit needs to be conducted. She expresses concerns about not having a solidified plan of action to ensure business continuity and compliance as the business grows. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to accepting online payments and conducting business in the European Union (EU).
+Your organization's security policies and procedures describe how to respond to specific alerts, including what to do when you receive a phishing alert. 
 
-The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, and completing a risk assessment. The goal of the audit is to provide an overview of the risks the company might experience due to the current state of their security posture. The IT manager wants to use the audit findings as evidence to obtain approval to expand his department. 
-
+In the playbook, there is a flowchart and written instructions to help you complete your investigation and resolve the alert. At the end of your investigation, you will update the alert ticket with your findings about the incident.
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a control assessment and compliance checklist. 
 
 - <a> Required Documents </a>
-  - [Playbook](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png)
-
+  - [Playbook](https://github.com/malikaii99/Phishing-Incident-Response/blob/4e0ec96574c799ebc5b5882ef4aa5d1bf688563f/Phishing%20incident%20response%20playbook.docx)
 
   
 <h2> Summary</h2>
