@@ -18,7 +18,7 @@ In the playbook, there is a flowchart and written instructions to help you compl
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a control assessment and compliance checklist. 
 
 - <a> Required Documents </a>
-  - [Playbook](https://github.com/malikaii99/Phishing-Incident-Response/blob/4e0ec96574c799ebc5b5882ef4aa5d1bf688563f/Phishing%20incident%20response%20playbook.docx)
+  - [Playbook](https://github.com/malikaii99/Phishing-Incident-Response/blob/4a8869d83344be453e73c3a5c3b70ac812d744cf/Phishing%20incident%20response%20playbook.docx)
 
   
 <h2> Summary</h2>
